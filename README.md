@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Velkommen til ByKruse.dk
 
 You can use the [editor on GitHub](https://github.com/agoralive/ByKruse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
