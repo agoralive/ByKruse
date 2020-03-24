@@ -1,9 +1,17 @@
 1. Download seneste version as Rasbian Lite direkte (https://www.raspberrypi.org/downloads/raspbian)
+
 2. Flash denne til dit SDKort med balenaEtcher (https://www.balena.io/etcher)
+
 3. Når balenaEtcher er færdig, skal du tage SDkortet ud af computeren og isætte det igen
+
 4. Kopier nu ssh filen over i roden på dit SDKort. Du har nu adgang til din RaspberryPi direkte fra Windows
+     Denne fil et som, og bare filen er tilgængelig på dit SD-Kort giver dette dig adgang
+     
 5. Start Putty (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) og tilgå din raspberry med dens IP adresse
      Ved første login skal du svare "Yes" til at Putty og din Raspberry må få forbindelse til hinanden
+
 6. Login med brugernavnet "pi" og passworded "raspberry"
+
 7. Skift dit password med kommandoen "sudo raspi-config"
+
 8. Tryk enter på første mulighed -> ok -> indtast dit nye password -> gentag dit password -> ok -> tabulator 2 gange -> "space" på finish
