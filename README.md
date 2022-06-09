@@ -3,7 +3,6 @@
 You can use the [editor on GitHub](https://github.com/agoralive/ByKruse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<p>Kion</p><br><br><br><br><br>Kion<br><br><br><br>Kion2<br><br>
 
 ### Markdown - Lad os prøve at lave flere ændringer
 
